@@ -1,193 +1,193 @@
-hour, day, value
-1 (AM), Wed,5895
-1 (AM), Thu,5068
-1 (AM), Fri,3793
-1 (AM), Sat,4719
-1 (AM), Sun,4224
-1 (AM), Mon,4179
-1 (AM), Tue,4801
-1 (AM), Wed,3581
-2 (AM), Wed,4914
-2 (AM), Thu,3883
-2 (AM), Fri,3128
-2 (AM), Sat,3514
-2 (AM), Sun,3151
-2 (AM), Mon,3284
-2 (AM), Tue,3816
-2 (AM), Wed,2959
-3 (AM), Wed,3234
-3 (AM), Thu,2482
-3 (AM), Fri,1987
-3 (AM), Sat,2520
-3 (AM), Sun,2148
-3 (AM), Mon,1928
-3 (AM), Tue,2597
-3 (AM), Wed,1907
-4 (AM), Wed,2241
-4 (AM), Thu,1613
-4 (AM), Fri,1264
-4 (AM), Sat,1684
-4 (AM), Sun,1315
-4 (AM), Mon,1479
-4 (AM), Tue,1622
-4 (AM), Wed,1270
-5 (AM), Wed,1365
-5 (AM), Thu,1026
-5 (AM), Fri,910
-5 (AM), Sat,1066
-5 (AM), Sun,870
-5 (AM), Mon,956
-5 (AM), Tue,1249
-5 (AM), Wed,889
-6 (AM), Wed,980
-6 (AM), Thu,896
-6 (AM), Fri,847
-6 (AM), Sat,817
-6 (AM), Sun,889
-6 (AM), Mon,661
-6 (AM), Tue,760
-6 (AM), Wed,689
-7 (AM), Wed,1230
-7 (AM), Thu,1158
-7 (AM), Fri,1020
-7 (AM), Sat,1148
-7 (AM), Sun,1147
-7 (AM), Mon,960
-7 (AM), Tue,956
-7 (AM), Wed,760
-8 (AM), Wed,1284
-8 (AM), Thu,1417
-8 (AM), Fri,1542
-8 (AM), Sat,1638
-8 (AM), Sun,1617
-8 (AM), Mon,1552
-8 (AM), Tue,1498
-8 (AM), Wed,955
-9 (AM), Wed,1695
-9 (AM), Thu,1783
-9 (AM), Fri,1717
-9 (AM), Sat,2424
-9 (AM), Sun,1679
-9 (AM), Mon,2402
-9 (AM), Tue,1834
-9 (AM), Wed,1257
-10 (AM), Wed,2251
-10 (AM), Thu,2228
-10 (AM), Fri,2014
-10 (AM), Sat,2444
-10 (AM), Sun,2333
-10 (AM), Mon,2333
-10 (AM), Tue,2210
-10 (AM), Wed,1612
-11 (AM), Wed,3093
-11 (AM), Thu,2594
-11 (AM), Fri,2250
-11 (AM), Sat,2687
-11 (AM), Sun,2446
-11 (AM), Mon,2518
-11 (AM), Tue,2567
-11 (AM), Wed,2125
-12 (PM), Wed,3369
-12 (PM), Thu,3241
-12 (PM), Fri,2547
-12 (PM), Sat,3152
-12 (PM), Sun,2892
-12 (PM), Mon,2943
-12 (PM), Tue,3036
-12 (PM), Wed,2486
-1 (PM), Wed,3743
-1 (PM), Thu,3216
-1 (PM), Fri,2753
-1 (PM), Sat,3138
-1 (PM), Sun,3145
-1 (PM), Mon,2571
-1 (PM), Tue,2845
-1 (PM), Wed,2986
-2 (PM), Wed,3832
-2 (PM), Thu,3557
-2 (PM), Fri,2992
-2 (PM), Sat,3158
-2 (PM), Sun,3520
-2 (PM), Mon,3534
-2 (PM), Tue,3224
-2 (PM), Wed,3081
-3 (PM), Wed,3759
-3 (PM), Thu,4498
-3 (PM), Fri,3199
-3 (PM), Sat,3510
-3 (PM), Sun,3873
-3 (PM), Mon,3976
-3 (PM), Tue,3124
-3 (PM), Wed,3248
-4 (PM), Wed,3462
-4 (PM), Thu,3745
-4 (PM), Fri,3148
-4 (PM), Sat,3391
-4 (PM), Sun,3853
-4 (PM), Mon,4540
-4 (PM), Tue,2590
-4 (PM), Wed,2882
-5 (PM), Wed,3321
-5 (PM), Thu,3539
-5 (PM), Fri,3171
-5 (PM), Sat,3009
-5 (PM), Sun,3230
-5 (PM), Mon,4287
-5 (PM), Tue,2638
-5 (PM), Wed,2960
-6 (PM), Wed,3292
-6 (PM), Thu,3883
-6 (PM), Fri,3048
-6 (PM), Sat,3082
-6 (PM), Sun,3306
-6 (PM), Mon,3957
-6 (PM), Tue,2735
-6 (PM), Wed,3036
-7 (PM), Wed,3484
-7 (PM), Thu,3871
-7 (PM), Fri,3586
-7 (PM), Sat,3416
-7 (PM), Sun,3564
-7 (PM), Mon,3970
-7 (PM), Tue,2853
-7 (PM), Wed,3130
-8 (PM), Wed,4037
-8 (PM), Thu,4211
-8 (PM), Fri,3608
-8 (PM), Sat,3983
-8 (PM), Sun,3504
-8 (PM), Mon,4239
-8 (PM), Tue,2986
-8 (PM), Wed,1916
-9 (PM), Wed,4229
-9 (PM), Thu,4690
-9 (PM), Fri,4268
-9 (PM), Sat,5720
-9 (PM), Sun,3783
-9 (PM), Mon,5356
-9 (PM), Tue,3311
-9 (PM), Wed,20
-10 (PM), Wed,4702
-10 (PM), Thu,4038
-10 (PM), Fri,4931
-10 (PM), Sat,4192
-10 (PM), Sun,6920
-10 (PM), Mon,4716
-10 (PM), Tue,6099
-10 (PM), Wed,4210
-11 (PM), Wed,5199
-11 (PM), Thu,4570
-11 (PM), Fri,4973
-11 (PM), Sat,4638
-11 (PM), Sun,5310
-11 (PM), Mon,4581
-11 (PM), Tue,6063
-11 (PM), Wed,3574
-12 (AM), Wed,5793
-12 (AM), Thu,5376
-12 (AM), Fri,4827
-12 (AM), Sat,5097
-12 (AM), Sun,4526
-12 (AM), Mon,4499
-12 (AM), Tue,5445
-12 (AM), Wed,3868
+hour,day,value
+1 (AM),Wed,5895
+1 (AM),Thu,5068
+1 (AM),Fri,3793
+1 (AM),Sat,4719
+1 (AM),Sun,4224
+1 (AM),Mon,4179
+1 (AM),Tue,4801
+1 (AM),Wed,3581
+2 (AM),Wed,4914
+2 (AM),Thu,3883
+2 (AM),Fri,3128
+2 (AM),Sat,3514
+2 (AM),Sun,3151
+2 (AM),Mon,3284
+2 (AM),Tue,3816
+2 (AM),Wed,2959
+3 (AM),Wed,3234
+3 (AM),Thu,2482
+3 (AM),Fri,1987
+3 (AM),Sat,2520
+3 (AM),Sun,2148
+3 (AM),Mon,1928
+3 (AM),Tue,2597
+3 (AM),Wed,1907
+4 (AM),Wed,2241
+4 (AM),Thu,1613
+4 (AM),Fri,1264
+4 (AM),Sat,1684
+4 (AM),Sun,1315
+4 (AM),Mon,1479
+4 (AM),Tue,1622
+4 (AM),Wed,1270
+5 (AM),Wed,1365
+5 (AM),Thu,1026
+5 (AM),Fri,910
+5 (AM),Sat,1066
+5 (AM),Sun,870
+5 (AM),Mon,956
+5 (AM),Tue,1249
+5 (AM),Wed,889
+6 (AM),Wed,980
+6 (AM),Thu,896
+6 (AM),Fri,847
+6 (AM),Sat,817
+6 (AM),Sun,889
+6 (AM),Mon,661
+6 (AM),Tue,760
+6 (AM),Wed,689
+7 (AM),Wed,1230
+7 (AM),Thu,1158
+7 (AM),Fri,1020
+7 (AM),Sat,1148
+7 (AM),Sun,1147
+7 (AM),Mon,960
+7 (AM),Tue,956
+7 (AM),Wed,760
+8 (AM),Wed,1284
+8 (AM),Thu,1417
+8 (AM),Fri,1542
+8 (AM),Sat,1638
+8 (AM),Sun,1617
+8 (AM),Mon,1552
+8 (AM),Tue,1498
+8 (AM),Wed,955
+9 (AM),Wed,1695
+9 (AM),Thu,1783
+9 (AM),Fri,1717
+9 (AM),Sat,2424
+9 (AM),Sun,1679
+9 (AM),Mon,2402
+9 (AM),Tue,1834
+9 (AM),Wed,1257
+10 (AM),Wed,2251
+10 (AM),Thu,2228
+10 (AM),Fri,2014
+10 (AM),Sat,2444
+10 (AM),Sun,2333
+10 (AM),Mon,2333
+10 (AM),Tue,2210
+10 (AM),Wed,1612
+11 (AM),Wed,3093
+11 (AM),Thu,2594
+11 (AM),Fri,2250
+11 (AM),Sat,2687
+11 (AM),Sun,2446
+11 (AM),Mon,2518
+11 (AM),Tue,2567
+11 (AM),Wed,2125
+12 (PM),Wed,3369
+12 (PM),Thu,3241
+12 (PM),Fri,2547
+12 (PM),Sat,3152
+12 (PM),Sun,2892
+12 (PM),Mon,2943
+12 (PM),Tue,3036
+12 (PM),Wed,2486
+1 (PM),Wed,3743
+1 (PM),Thu,3216
+1 (PM),Fri,2753
+1 (PM),Sat,3138
+1 (PM),Sun,3145
+1 (PM),Mon,2571
+1 (PM),Tue,2845
+1 (PM),Wed,2986
+2 (PM),Wed,3832
+2 (PM),Thu,3557
+2 (PM),Fri,2992
+2 (PM),Sat,3158
+2 (PM),Sun,3520
+2 (PM),Mon,3534
+2 (PM),Tue,3224
+2 (PM),Wed,3081
+3 (PM),Wed,3759
+3 (PM),Thu,4498
+3 (PM),Fri,3199
+3 (PM),Sat,3510
+3 (PM),Sun,3873
+3 (PM),Mon,3976
+3 (PM),Tue,3124
+3 (PM),Wed,3248
+4 (PM),Wed,3462
+4 (PM),Thu,3745
+4 (PM),Fri,3148
+4 (PM),Sat,3391
+4 (PM),Sun,3853
+4 (PM),Mon,4540
+4 (PM),Tue,2590
+4 (PM),Wed,2882
+5 (PM),Wed,3321
+5 (PM),Thu,3539
+5 (PM),Fri,3171
+5 (PM),Sat,3009
+5 (PM),Sun,3230
+5 (PM),Mon,4287
+5 (PM),Tue,2638
+5 (PM),Wed,2960
+6 (PM),Wed,3292
+6 (PM),Thu,3883
+6 (PM),Fri,3048
+6 (PM),Sat,3082
+6 (PM),Sun,3306
+6 (PM),Mon,3957
+6 (PM),Tue,2735
+6 (PM),Wed,3036
+7 (PM),Wed,3484
+7 (PM),Thu,3871
+7 (PM),Fri,3586
+7 (PM),Sat,3416
+7 (PM),Sun,3564
+7 (PM),Mon,3970
+7 (PM),Tue,2853
+7 (PM),Wed,3130
+8 (PM),Wed,4037
+8 (PM),Thu,4211
+8 (PM),Fri,3608
+8 (PM),Sat,3983
+8 (PM),Sun,3504
+8 (PM),Mon,4239
+8 (PM),Tue,2986
+8 (PM),Wed,1916
+9 (PM),Wed,4229
+9 (PM),Thu,4690
+9 (PM),Fri,4268
+9 (PM),Sat,5720
+9 (PM),Sun,3783
+9 (PM),Mon,5356
+9 (PM),Tue,3311
+9 (PM),Wed,20
+10 (PM),Wed,4702
+10 (PM),Thu,4038
+10 (PM),Fri,4931
+10 (PM),Sat,4192
+10 (PM),Sun,6920
+10 (PM),Mon,4716
+10 (PM),Tue,6099
+10 (PM),Wed,4210
+11 (PM),Wed,5199
+11 (PM),Thu,4570
+11 (PM),Fri,4973
+11 (PM),Sat,4638
+11 (PM),Sun,5310
+11 (PM),Mon,4581
+11 (PM),Tue,6063
+11 (PM),Wed,3574
+12 (AM),Wed,5793
+12 (AM),Thu,5376
+12 (AM),Fri,4827
+12 (AM),Sat,5097
+12 (AM),Sun,4526
+12 (AM),Mon,4499
+12 (AM),Tue,5445
+12 (AM),Wed,3868
